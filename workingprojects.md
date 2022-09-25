@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Working Projects"
+title: " "
 ---
 
 ## Work under review
