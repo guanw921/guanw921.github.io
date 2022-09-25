@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Dissertation"}
   - {title: "Publications"}
   - {title: "Working Projects"}
+  - {title: "Contact Info"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
