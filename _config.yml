@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gwang921@umd.edu"}
   
-  - {title: Twitter, icon: fa-brands fa-twitter, url: "https://twitter.com/Guan_Wang921"}
+  - {title: Twitter, icon: f099, url: "https://twitter.com/Guan_Wang921"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
