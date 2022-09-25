@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "gwang_cv_092022.pdf",title: "CV"}
   - {title: "Dissertation"}
   - {file: "publications.md",title: "Publications"}
-  - {title: "Working Projects"}
+  - {file: "workingprojects.md",title: "Working Projects"}
   - {file: "contactinfo.md",title: "Contact Info"}
   
 
