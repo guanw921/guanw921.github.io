@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html",title: "About Me"}
-  - {file: "README.md",title: "CV"}
+  - {file: "Guan Wang CV September 2022.pdf",title: "CV"}
   - {title: "Dissertation"}
   - {title: "Publications"}
   - {title: "Working Projects"}
