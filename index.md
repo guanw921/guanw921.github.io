@@ -8,4 +8,3 @@ Hi! 你好！Welcome to my personal website. I am a Ph.D. Candidate in the Depar
 Download my [CV](https://guanw921.github.io/CV/).
 
 
-![my photo](photo.jpg)
