@@ -4,7 +4,6 @@ title: "About me"
 ---
 
 <img align="right" width="245" height="250" src="photo.jpg">
-<br/>
 
 Hi! 你好！Welcome to my personal website. I am a Ph.D. Candidate <br />
 in the Department of Government and Politics at the University of <br />
