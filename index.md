@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-<img align="left" width="245" height="250" src="photo.jpg" padding="15px"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" width="245" height="250" src="photo.jpg" padding="15px"> 
 
 <div style="float: right">
   
@@ -11,6 +11,6 @@ Hi! 你好！Welcome to my personal website. I am a Ph.D. Candidate in the Depar
   
 </div>
 
-Download my [CV](https://guanw921.github.io/guanwang.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; Download my [CV](https://guanw921.github.io/guanwang.pdf).
 
 
