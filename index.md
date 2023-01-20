@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-<img align="left" width="245" height="250" src="photo.jpg" padding="15px"> 
+<img align="left" width="245" height="250" src="photo.JPG" padding="15px"> 
 
 <div style="float: right">
   
